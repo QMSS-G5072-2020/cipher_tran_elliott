@@ -4,17 +4,21 @@ def cipher(text, shift, encrypt=True):
 
     Parameters
     ---
-    text:
-    shift:
-    encrypt:
+    text: string value that you wish to encrypt or decrypt
+    shift: integer value of how many number positions down the alphabet you would like to shift the string
+    encrypt: boolean value that is 1 if you wish to encrypt or 0 if you wish to decrypt
 
     Returns
     ---
+    string value that has been encrypted or decrypted
 
 
     Examples
     ---
-    import cipher_eat2153
+    from cipher_eat2153 import cipher
+    >>> cipher(text = 'yoda', shift = 1, encrypt = True)
+    ['zpeb']
+    >>> 
     
     """
     alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'

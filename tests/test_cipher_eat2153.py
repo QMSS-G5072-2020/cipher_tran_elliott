@@ -1,5 +1,6 @@
-from cipher_eat2153 import __version__
-from cipher_eat2153 import cipher_eat2153
+from cipher_eat2153 import cipher_eat2153 
 
-def test_version():
-    assert __version__ == '0.1.0'
+def test_cipher_symbol():
+    expected = "zpeb?"
+    result = cipher_eat2153.cipher(text = "yoda?", shift = 1, encrypt = True)
+    assert result == expected

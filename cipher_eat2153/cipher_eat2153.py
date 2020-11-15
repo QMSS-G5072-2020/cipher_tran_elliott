@@ -15,7 +15,7 @@ def cipher(text, shift, encrypt=True):
 
     Examples
     ---
-    from cipher_eat2153 import cipher
+    from cipher_eat2153 import cipher_eat2153
     >>> cipher(text = 'yoda', shift = 1, encrypt = True)
     ['zpeb']
     >>> 

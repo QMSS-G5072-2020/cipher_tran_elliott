@@ -2,7 +2,7 @@
 
 ![](https://github.com/elliotttrio/cipher_eat2153/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/elliotttrio/cipher_eat2153/branch/main/graph/badge.svg)](https://codecov.io/gh/elliotttrio/cipher_eat2153) ![Release](https://github.com/elliotttrio/cipher_eat2153/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/cipher_eat2153/badge/?version=latest)](https://cipher_eat2153.readthedocs.io/en/latest/?badge=latest)
 
-This is a package for MDS
+This cookiecutter creates a boilerplate for a Python project.
 
 ## Installation
 

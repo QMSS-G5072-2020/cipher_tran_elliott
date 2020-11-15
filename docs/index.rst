@@ -10,7 +10,7 @@ Welcome to cipher_eat2153's documentation!
 .. image:: https://img.shields.io/badge/badges-shields.io-brightgreen
         :target: https://shields.io/
 
-This is a package for MDS
+This cookiecutter creates a boilerplate for a Python project.
 
 To get started, check out the sections below:
 

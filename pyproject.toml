@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "cipher_eat2153"
 version = "0.1.0"
-description = "This is a package made for MDS."
+description = "This is a package for MDS"
 authors = ["Elliott <eat2153@columbia.edu>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 

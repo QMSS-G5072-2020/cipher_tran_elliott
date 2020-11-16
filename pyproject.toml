@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_eat2153"
-version = "0.1.0"
+version = "0.1.1"
 description = "This is a package for MDS"
 authors = ["Elliott <eat2153@columbia.edu>"]
 license = "MIT"
